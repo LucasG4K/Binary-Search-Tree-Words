@@ -3,4 +3,4 @@ Os arquivos com o algoritmo desenvolvido podem ser localizados neste repositóri
 
 ## EXIBIÇÃO DA ÁRVORE BINÁRIA PROPOSTA
 
-![Árvore Binária Proposta](https://raw.githubusercontent.com/LucasG4K/Exercicio1-AEDSII/main/Atv2.png)
+![Árvore Binária Proposta](https://raw.githubusercontent.com/LucasG4K/Binary-Search-Tree-Words-/main/Atv2.png)
